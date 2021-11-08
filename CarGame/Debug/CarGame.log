@@ -1,0 +1,17 @@
+﻿  Game.cpp
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\Car.h(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(41,33): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\GameObject.h(42,33): warning C4244: 'return': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\Rocks.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\Meta.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\GameObjects\PowerUp.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\miria\Desktop\CarGame_template_v0\CarGame\CarGameCode\Logic\Game.cpp(25,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  CarGame.vcxproj -> C:\Users\miria\Desktop\CarGame_template_v0\bin\CarGamePr1Debug.exe
